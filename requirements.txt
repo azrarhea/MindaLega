@@ -1,0 +1,6 @@
+tweepy
+praw
+pandas
+numpy
+nltk
+flask
